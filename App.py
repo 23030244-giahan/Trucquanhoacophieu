@@ -23,7 +23,7 @@ st.image("logo.jpg")
 # =============================
 # TIÊU ĐỀ
 # =============================
-st.title("📈 Đề tài 6 - Lý Gia Hân")
+st.title("📈 Đề tài 6 Lý Gia Hân")
 st.subheader("TS. VŨ ĐỨC BÌNH")
 
 st.markdown("---")
@@ -136,7 +136,8 @@ if run:
     ax[1].set_title("Log Return")
     ax[1].set_ylabel("Return")
     ax[1].set_xlabel("Date")
-    ax[1].legend()ax[1].grid(True)
+    ax[1].legend()
+    ax[1].grid(True)
 
     plt.tight_layout()
 
