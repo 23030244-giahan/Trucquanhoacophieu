@@ -23,7 +23,7 @@ st.image("logo.jpg")
 # =============================
 # TIÊU ĐỀ
 # =============================
-st.title("📈 Đề tài 6 Lý Gia Hân")
+st.title("📈 Trực quan hoá giá cổ phiếu và kiểm định MANN-KENDALL đề tài 6 Lý Gia Hqab")
 st.subheader("TS. VŨ ĐỨC BÌNH")
 
 st.markdown("---")
